@@ -1,0 +1,18 @@
+{
+    "name": "gnosis",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@safe-global/api-kit": "^2.0.0",
+        "@safe-global/protocol-kit": "^2.0.0",
+        "@safe-global/safe-core-sdk-types": "^3.0.1",
+        "@safe-global/safe-core-sdk": "^3.3.5",
+        "ethers": "^6.7.1"
+    }
+}
